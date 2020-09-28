@@ -1,0 +1,73 @@
+[33mcommit 9e56aaa862363d846b1d27f0914c568b16a9fc4c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: kamorales <kamoralescarranza@gmail.com>
+Date:   Mon Sep 28 16:08:57 2020 -0500
+
+    First Commit
+
+[33mcommit dc7a32e433c4be38a4a59ba9fd6f3fd76bd09fcd[m
+Author: Andrea Morales <kamoralescarranza@gmail.com>
+Date:   Thu Sep 3 20:53:16 2020 -0500
+
+    Se realiza cambio de nombres y ajustes de texto
+
+[33mcommit 7fc3ef38f8d0cb9eed98da2a95528ee732cc5078[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Andrea Morales <kamoralescarranza@gmail.com>
+Date:   Mon Aug 17 22:18:31 2020 -0500
+
+    container centered
+
+[33mcommit 16dad9c9c2c0bd43fe00c31a077c3815f5afe568[m
+Merge: 6be227d 968f5cd
+Author: Andrea Morales <kamoralescarranza@gmail.com>
+Date:   Mon Aug 17 19:46:32 2020 -0500
+
+    Merge branch 'master' of https://github.com/andreaup/News-Pruebas
+
+[33mcommit 6be227da8befa4b1a2054a67d15fe1b313498dfa[m
+Author: Andrea Morales <kamoralescarranza@gmail.com>
+Date:   Mon Aug 17 19:46:28 2020 -0500
+
+    Changeset various
+
+[33mcommit 968f5cd727e9b6924486a4066af1371697600308[m
+Author: niklerk <niklerk@DESKTOP-0PHNLLB>
+Date:   Mon Aug 17 13:13:18 2020 -0500
+
+    change date moment
+
+[33mcommit 135c3fb3ca546e3d71b4a6e20023ac96440c195c[m
+Merge: b457e00 4c67c3e
+Author: Andrea Morales <kamoralescarranza@gmail.com>
+Date:   Mon Aug 17 12:51:26 2020 -0500
+
+    Merge branch 'master' of https://github.com/andreaup/News-Pruebas
+
+[33mcommit b457e001bee93a5698e06e2d487e7253e2c3267b[m
+Author: Andrea Morales <kamoralescarranza@gmail.com>
+Date:   Mon Aug 17 12:49:31 2020 -0500
+
+    styles and routing updated
+
+[33mcommit 4c67c3e6510acf0ef71c8b8b9bf73fa32f5b7863[m
+Author: niklerk <niklerk@DESKTOP-0PHNLLB>
+Date:   Mon Aug 17 12:44:59 2020 -0500
+
+    update routing
+
+[33mcommit 88426cfca91d2cc414fb1ac9f18e3852381ede3a[m
+Author: niklerk <niklerk@DESKTOP-0PHNLLB>
+Date:   Mon Aug 17 12:17:25 2020 -0500
+
+    fix routing
+
+[33mcommit 66423b9c63db8825e9402a5d86b0720ffc485bfb[m
+Author: Andrea Morales <kamoralescarranza@gmail.com>
+Date:   Mon Aug 17 11:02:56 2020 -0500
+
+    First commit
+
+[33mcommit 1ae9f6f048e197f868d82c8dbbef3c97dae13812[m
+Author: Andrea Morales <kamoralescarranza@gmail.com>
+Date:   Sun Aug 9 11:48:38 2020 -0500
+
+    Initialize project using Create React App
