@@ -1,10 +1,16 @@
 import React from "react";
-import MainRouting from './MainRouting'
+import UserProvider from '../containers/UserProvider';
+import Header from './Header';
+import Main from './Main';
+import NavBar from './Nav';
 
 const App = () => (
   <div>
-    <MainRouting/>
-    <></>
+    <UserProvider>
+      <NavBar />
+      <Header />
+      <Main />
+    </UserProvider>
   </div>
 );
 
