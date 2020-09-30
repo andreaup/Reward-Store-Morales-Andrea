@@ -59,7 +59,7 @@ const NavBar = () => {
 
 export const ProfileCard = ({ setShowModal, showModal}) => {
   const {
-    user: { name, points },
+    user: { points },
     setUser,
   } = useContext(AppContext);
 
