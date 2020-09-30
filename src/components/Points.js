@@ -4,9 +4,10 @@ import { AppContext } from "../containers/User";
 import { pathData, fetchData, add_points_options } from "../resources/defaulValues";
 
 const Points = () => {
+  const text = 'Add coins to your account now'
   const { user, setUser } = useContext(AppContext);
   const [selected, setSelected] = useState(add_points_options[0]);
-  const [message, setMessage] = useState("Add coins to your account now");
+  const [message, setMessage] = useState(text);
   let isMounted = useRef(true);
 
   const handlePost = () => {
@@ -15,7 +16,7 @@ const Points = () => {
          setUser({ ...user, points: res["New coins added to your account"] });
          isMounted.current && setMessage(res.message);
       }).catch(
-        isMounted.current
+        isMounted.current && setMessage(text)
       )
   };
 
@@ -36,15 +37,13 @@ const Points = () => {
             className={
               selected === element ? "btn-active number" : "btn number"
             }
-            onClick={() => setSelected(element)}
-          >
+            onClick={() => setSelected(element)}>
             <img src={coin} alt="coin" />
           <p>{element}</p>
           </button>
         ))}
       </div>
-      <button className="btn btn-add btn-add-points" onClick={() => handlePost()}>
-        Go!
+      <button className="btn btn-add btn-add-points" onClick={() => handlePost()}>Buy!
       </button>
       <h3>{message}!</h3>
     </div>

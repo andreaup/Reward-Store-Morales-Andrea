@@ -18,7 +18,7 @@ const ProductCard = ({ _id, name, cost, category, img: { url } }) => {
     })
       .then((res) => {
         setShowModal(true);
-        res.message === "You've redeem the product successfully"
+        res.message === "Sucess!! Everything is working!!"
           ? setResultMessage(res.message)
           : setResultMessage("Oh no, something went wrong!");
 
