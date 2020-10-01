@@ -11,7 +11,7 @@ const Main = () => {
     <Switch>
       <Route
         exact
-        path="/store-react-app/"
+        path="/reward-store-morales-andrea/"
         render={() => {
           return (
             <Products
@@ -24,7 +24,7 @@ const Main = () => {
 
       <Route
         exact
-        path="/store-react-app/profile"
+        path="/reward-store-morales-andrea/profile"
         render={() => {
           return (
             <Profile

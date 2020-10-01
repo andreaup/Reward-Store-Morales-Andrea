@@ -22,13 +22,13 @@ const NavBar = () => {
     <div className="nav-bar">
       <ul className="links">
       <div className="logo">
-      <Link className="link" to="/store-react-app/">
+      <Link className="link" to="/reward-store-morales-andrea/">
         <img src={Logo} alt="Products" /> Products
         </Link>
       </div>
       </ul>
       <div className="profileData">
-      <Link className="link" to="/store-react-app/profile">
+      <Link className="link" to="/reward-store-morales-andrea/profile">
       <p className="username"><i className="fa fa-user"aria-hidden="true"> </i>  |{name}
         </p>
       </Link>

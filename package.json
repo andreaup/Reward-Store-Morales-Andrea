@@ -1,7 +1,7 @@
 {
-  "name": "Reward-Store-Morales-Andrea",
+  "name": "reward-store-morales-andrea",
   "version": "0.1.0",
-  "homepage": "http://andreaup.github.io/Reward-Store-Morales-Andrea",
+  "homepage": "http://andreaup.github.io/reward-store-morales-andrea",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
