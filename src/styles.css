@@ -17,7 +17,7 @@ text-align: center;
 
 .header img {
   width: 100%;
-  height: 412px;
+  height: 500px;
 }
 
 .header h1 {
@@ -26,19 +26,15 @@ text-align: center;
   left: 9.17%;
   right: 69.03%;
   top: calc(50% - 80px / 2 + 118px);
-
   font-family: Source Sans Pro;
-  font-style: normal;
   font-weight: bold;
-  font-size: 64px;
-  line-height: 80px;
-
-  color: #ffffff;
+  font-size: 70px;
+  color: white;
 }
 
 
 .nav-bar {
-  background: #ffffff;
+  background: white;
   height: 10%;
   left: 0px;
   top: 0px;
@@ -48,7 +44,7 @@ text-align: center;
   align-items: center;
   padding: 1%;
 }
-.profile-data {
+.profileData {
   display: flex;
   flex-direction: row;
   float: right;
@@ -58,20 +54,19 @@ text-align: center;
   border-radius: 15px;
 }
 
-.profile-data:hover {
-  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+.profileData:hover {
+  box-shadow: 0 12px 16px 0 rgba(22, 11, 80, 0.24), 0 17px 50px 0 rgba(22, 11, 80, 0.24);
 }
 
 
-.profile-data p {
+.profileData p {
   font-family: Source Sans Pro;
   font-style: normal;
   font-weight: normal;
-  font-size: 24px;
-  color: #616161;
+  font-size: 30px;
+  color: #cc6402;
+  font-weight: bold;
   display: flex;
-  align-items: center;
-  
 }
 
 .username {
@@ -89,7 +84,6 @@ text-align: center;
 }
 
 ul > li {
-  /* border: 1px solid black; */
   padding: 10px;
   list-style-type: none;
 }
@@ -217,7 +211,6 @@ li {
 }
 
 
-/*card*/
 .card button {
   -webkit-appearance: button;
   -moz-appearance: button;
@@ -235,7 +228,6 @@ li {
   font-size: 18px;
   line-height: 23px;
 
-  /* identical to box height */
   text-align: center;
   letter-spacing: -0.0423529px;
 
@@ -313,7 +305,6 @@ li {
   font-size: 18px;
   line-height: 23px;
 
-  /* identical to box height */
   letter-spacing: -0.0423529px;
 
   color: #616161;
@@ -397,7 +388,6 @@ li {
   font-weight: normal;
   font-size: 14px;
   line-height: 18px;
-  /* identical to box height */
   text-align: right;
   letter-spacing: -0.0329412px;
 
@@ -475,7 +465,6 @@ li {
   border: none;
   font-size: 20px;
 }
-/*card*/
 
 .description{
   text-align: center;
@@ -528,8 +517,6 @@ img {
 }
 
 
-/*pag*/
-
 .pagination {
   display: flex;
   flex-direction: row;
@@ -559,8 +546,6 @@ img {
   color: #0ad4fa;
 }
 
-/*Product*/
-
 .products{
   background-color: #F2F2F2;
   height: 100%;
@@ -583,8 +568,6 @@ img {
   grid-gap: 30px;
   justify-content: center;
 }
-
-/*profile*/
 
 .profile {
   background-color: #f2f2f2;
@@ -612,7 +595,6 @@ img {
     color: gray;
 }
 
-/* bar */
 .bar {
   display: flex;
   justify-content: space-around;
@@ -655,7 +637,6 @@ img {
   color: #ffffff;
 }
 
-/* points */ 
 .points-comp {
   display: flex;
   flex-direction: column;
@@ -716,12 +697,3 @@ img {
 p {
   display: contents;
 }
-
-/* .button-search{
-  width: 35px;
-  height: 35px;
-  background-color: rgba(86, 6, 88, 0.63);
-  border: 1px;
-  border-radius: 10px;
-  color: white;
-} */

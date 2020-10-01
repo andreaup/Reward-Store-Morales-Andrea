@@ -27,7 +27,7 @@ const NavBar = () => {
         </Link>
       </div>
       </ul>
-      <div className="profile-data">
+      <div className="profileData">
       <Link className="link" to="/store-react-app/profile">
         <p className="username">{name}</p>
       </Link>
@@ -68,7 +68,7 @@ export const ProfileCard = ({ setShowModal, showModal}) => {
   }, [setUser]);
 
   return(
-    <button className="profile-data" onClick={() => setShowModal(!showModal)}>
+    <button className="profileData" onClick={() => setShowModal(!showModal)}>
         <div className="points">
           <p>{points}</p>
           <img src={coin} alt="coin" />
