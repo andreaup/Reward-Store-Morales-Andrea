@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7bf2bbd38606320195e8ff3eabf07735",
+    "revision": "52b86bbcb9b12cf2a08be2999af1b3bd",
     "url": "/reward-store-morales-andrea/index.html"
   },
   {
-    "revision": "631a9d644f1f5736adf8",
+    "revision": "69b3704ea384b3dcf817",
     "url": "/reward-store-morales-andrea/static/css/main.c6f5ce07.chunk.css"
   },
   {
@@ -16,28 +16,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reward-store-morales-andrea/static/js/2.1b1f28bd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "631a9d644f1f5736adf8",
-    "url": "/reward-store-morales-andrea/static/js/main.2f75bafd.chunk.js"
+    "revision": "69b3704ea384b3dcf817",
+    "url": "/reward-store-morales-andrea/static/js/main.626aa7c7.chunk.js"
   },
   {
     "revision": "ef8e78197978193ef210",
     "url": "/reward-store-morales-andrea/static/js/runtime-main.77f48fed.js"
   },
   {
-    "revision": "71af6f4be21b71f7b37a986aca3a5af6",
-    "url": "/reward-store-morales-andrea/static/media/aerolab-logo.71af6f4b.svg"
+    "revision": "eafbdf977fa71aaa4f363c15fc79bfc6",
+    "url": "/reward-store-morales-andrea/static/media/aerolab-logo.eafbdf97.svg"
   },
   {
-    "revision": "2f11a957b72ff4a5c46227027cf46115",
-    "url": "/reward-store-morales-andrea/static/media/buy-blue.2f11a957.svg"
+    "revision": "35b334b79af752bbd6319e3c8830e94c",
+    "url": "/reward-store-morales-andrea/static/media/buy-blue.35b334b7.svg"
   },
   {
-    "revision": "40bc281346af2ba434a9d9792491715d",
-    "url": "/reward-store-morales-andrea/static/media/buy-white.40bc2813.svg"
+    "revision": "6c4dec8bc6e719ada7ce9ea299cf0c56",
+    "url": "/reward-store-morales-andrea/static/media/buy-white.6c4dec8b.svg"
   },
   {
-    "revision": "4669120cae147258c9fc868719b1d3ca",
-    "url": "/reward-store-morales-andrea/static/media/coin.4669120c.svg"
+    "revision": "da7936e61d9b61fb6a51d5fbf850d6bd",
+    "url": "/reward-store-morales-andrea/static/media/coin.da7936e6.svg"
   },
   {
     "revision": "f0b98264ce8c93768fbf37c263885aaa",
