@@ -18,10 +18,9 @@ const ProductCard = ({ _id, name, cost, category, img: { url } }) => {
     })
       .then((res) => {
         setShowModal(true);
-        res.message === "Sucess!! Everything is working!!"
-          ? setResultMessage(res.message)
+        res.message === "You've redeem the product successfully"
+          ? setResultMessage("Sucess!! Everything is working!!")
           : setResultMessage("Oh no, something went wrong!");
-
         fetchData({ data: pathData.load_user }).then((result) =>
           setUser(result)
         );
@@ -40,7 +39,7 @@ const ProductCard = ({ _id, name, cost, category, img: { url } }) => {
       ) : (
         <div className="icon">
           <div className="you-need">
-            <p> You need {-difference}</p>
+            <p> You need {-difference} Coins</p>
             <img src={coin} alt="coin" />
           </div>
         </div>
