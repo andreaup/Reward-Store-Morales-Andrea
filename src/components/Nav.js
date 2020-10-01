@@ -23,13 +23,14 @@ const NavBar = () => {
       <ul className="links">
       <div className="logo">
       <Link className="link" to="/store-react-app/">
-        <img src={Logo} alt="Products" />
+        <img src={Logo} alt="Products" /> Products
         </Link>
       </div>
       </ul>
       <div className="profile-data">
       <Link className="link" to="/store-react-app/profile">
-        <p className="username">{name}</p>
+      <p className="username"><i class="fa fa-user" aria-hidden="true"> </i> {name}
+        </p>
       </Link>
       
 
@@ -41,9 +42,8 @@ const NavBar = () => {
             <div className="modal">
               <button
                 className="modal-close"
-                onClick={() => setShowModal(!showModal)}
-              >
-                x
+                onClick={() => setShowModal(!showModal)}>
+                  <i class="fa fa-times-circle" aria-hidden="true"></i>
               </button>
               <div className="modal-profile">
                 <Points />
