@@ -29,7 +29,7 @@ const NavBar = () => {
       </ul>
       <div className="profileData">
       <Link className="link" to="/store-react-app/profile">
-      <p className="username"><i class="fa fa-user" aria-hidden="true"> </i> {name}
+      <p className="username"><i className="fa fa-user"aria-hidden="true"> </i>  |{name}
         </p>
       </Link>
       
