@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Reward-Store-Morales-Andrea/static/css/main.80374362.chunk.css",
+    "main.js": "/Reward-Store-Morales-Andrea/static/js/main.919f7693.chunk.js",
+    "main.js.map": "/Reward-Store-Morales-Andrea/static/js/main.919f7693.chunk.js.map",
+    "runtime-main.js": "/Reward-Store-Morales-Andrea/static/js/runtime-main.cdc84b70.js",
+    "runtime-main.js.map": "/Reward-Store-Morales-Andrea/static/js/runtime-main.cdc84b70.js.map",
+    "static/js/2.b3672d18.chunk.js": "/Reward-Store-Morales-Andrea/static/js/2.b3672d18.chunk.js",
+    "static/js/2.b3672d18.chunk.js.map": "/Reward-Store-Morales-Andrea/static/js/2.b3672d18.chunk.js.map",
+    "index.html": "/Reward-Store-Morales-Andrea/index.html",
+    "precache-manifest.af3c7c7dfc7d4997f1eddc067297bf52.js": "/Reward-Store-Morales-Andrea/precache-manifest.af3c7c7dfc7d4997f1eddc067297bf52.js",
+    "service-worker.js": "/Reward-Store-Morales-Andrea/service-worker.js",
+    "static/css/main.80374362.chunk.css.map": "/Reward-Store-Morales-Andrea/static/css/main.80374362.chunk.css.map",
+    "static/js/2.b3672d18.chunk.js.LICENSE.txt": "/Reward-Store-Morales-Andrea/static/js/2.b3672d18.chunk.js.LICENSE.txt",
+    "static/media/aerolab-logo.svg": "/Reward-Store-Morales-Andrea/static/media/aerolab-logo.eafbdf97.svg",
+    "static/media/buy-blue.svg": "/Reward-Store-Morales-Andrea/static/media/buy-blue.35b334b7.svg",
+    "static/media/buy-white.svg": "/Reward-Store-Morales-Andrea/static/media/buy-white.6c4dec8b.svg",
+    "static/media/coin.svg": "/Reward-Store-Morales-Andrea/static/media/coin.da7936e6.svg",
+    "static/media/styles.css": "/Reward-Store-Morales-Andrea/static/media/header-x1.f0b98264.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdc84b70.js",
+    "static/js/2.b3672d18.chunk.js",
+    "static/css/main.80374362.chunk.css",
+    "static/js/main.919f7693.chunk.js"
+  ]
+}
